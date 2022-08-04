@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgdBnk8TmR88d4mYh/eMGEbDo6ju4rWZO1fClJOVkR2qHEY2GYe31OdR8x9yFfENTs5PDBNBegClTOqY+G9adg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mish\\Source\\Repos\\Mishrule\\backend\\Time-Table-Schedule\\GaSchedule.Console\\GaSchedule.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mish\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
